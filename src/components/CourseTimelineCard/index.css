@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.duration-container {
+  display: flex;
+  align-items: center;
+}
+.course-heading {
+  line-height: 1.3;
+}
+
+.h1-duration {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.course-des {
+}
+.tagsList {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px;
+  padding: 0px;
+}
+.icon {
+  margin-right: 5px;
+}

@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.project-img {
+  width: 100%;
+  height: 100%;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+}
+.project-duration {
+  display: flex;
+  align-items: center;
+}
+.h1-duration {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.icon {
+  margin-right: 5px;
+}
