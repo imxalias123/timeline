@@ -3,7 +3,7 @@ import styled from 'styled-components/macro'
 export const Heading = styled.h2`
   color: #171f46;
   text-align: center;
-  font-size: 21px;
+  font-size: 19px;
 `
 
 export const TimelineContainer = styled.div`
